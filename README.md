@@ -7,7 +7,7 @@ dan untuk Tampilan UI Signup nya seperti berikut : <br>
 ![menambahkan_gambar](signup.png) <br>
 
 serta tampilan untuk lupa kata sandinya sebagai berikut : <br>
-![menambahkan_gambar](forgot password.png) <br>
+![menambahkan_gambar](forgot_password.png) <br>
 
 
 
